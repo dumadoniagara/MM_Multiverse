@@ -1,0 +1,28 @@
+.toolbar{
+    position: fixed;
+    width: 100%;
+    height: 70px;
+    top: 0;
+    background-color: #fff;
+    border-bottom: 1px solid rgba(219,219,219);
+    padding: 0px 15px;
+    display: flex;
+    align-items: center;
+    align-content: center;
+}
+
+.toolbar-logo{
+    width: 50px;
+    width: 50px;
+    border-radius: 20%;
+}
+
+.toolbar-menu{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 20px
+}
+
+.toolbar-submenu{
+    margin-left: 10px;
+}
